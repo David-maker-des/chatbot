@@ -1,0 +1,31 @@
+Cliente: Olá! Vi que vocês têm uma promoção de carros novos. Estou interessado em saber mais sobre o modelo XYZ.
+
+Black: Olá! Sim, temos uma excelente promoção para o modelo XYZ. É um carro muito popular por causa da sua eficiência e conforto. Como posso ajudar você? Quer saber mais sobre as características do carro ou os preços?
+
+Black: Gostaria de saber mais sobre as características. O que faz o modelo XYZ se destacar?
+
+Vendedor: Claro! O modelo XYZ vem com um motor 2.0 turbo, transmissão automática de 6 marchas e um sistema de infotainment com tela de 8 polegadas. Além disso, ele conta com câmera de ré, sensores de estacionamento e controle de estabilidade. É ideal para quem busca desempenho e segurança.
+
+Black: Isso parece ótimo! E quanto ao preço? Estou tentando calcular o valor da entrada e das parcelas.
+
+Vendedor: O preço base do modelo XYZ é de R$ 90.000. Se você optar pela entrada de 30%, o valor da entrada seria R$ 27.000. As parcelas, considerando um financiamento em 60 vezes com taxa de juros de 1,5% ao mês, ficariam em torno de R$ 1.200 por mês. Esses valores são estimados e podem variar conforme o perfil do financiamento.
+
+Black: Entendi. E há alguma oferta especial ou desconto adicional disponível?
+
+Vendedor: Sim, no momento estamos oferecendo um desconto de R$ 5.000 na compra do modelo XYZ e, além disso, incluímos um pacote de manutenção grátis por 2 anos. Esse desconto já está refletido no valor que te passei anteriormente.
+
+Black: Ótimo! E qual é o processo para agendar um test drive?
+
+Vendedor: Você pode agendar o test drive diretamente por aqui. Quando seria um bom horário para você? Temos disponibilidade durante a semana e aos sábados.
+
+Black: Que tal na próxima sexta-feira à tarde?
+
+Vendedor: Perfeito! Vamos agendar para sexta-feira à tarde. Qual horário seria mais conveniente para você?
+
+Black: Entre 14h e 15h está bom.
+
+Vendedor: Combinado! Vou agendar o test drive para sexta-feira às 14h. Nossa concessionária fica na Rua das Flores, 123. Estaremos esperando por você!
+
+Black: Obrigado! Até lá.
+
+Vendedor: De nada! Se precisar de mais alguma informação antes do test drive, é só me avisar. Até sexta-feira!
